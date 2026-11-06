@@ -1,0 +1,10 @@
+C:\Users\madoo\OneDrive\Desktop\C##\Lucky Cafe Order Project\Lucky Cafe Order Project\bin\Debug\Lucky Cafe Order Project.exe.config
+C:\Users\madoo\OneDrive\Desktop\C##\Lucky Cafe Order Project\Lucky Cafe Order Project\bin\Debug\Lucky Cafe Order Project.exe
+C:\Users\madoo\OneDrive\Desktop\C##\Lucky Cafe Order Project\Lucky Cafe Order Project\bin\Debug\Lucky Cafe Order Project.pdb
+C:\Users\madoo\OneDrive\Desktop\C##\Lucky Cafe Order Project\Lucky Cafe Order Project\obj\Debug\Lucky Cafe Order Project.csproj.AssemblyReference.cache
+C:\Users\madoo\OneDrive\Desktop\C##\Lucky Cafe Order Project\Lucky Cafe Order Project\obj\Debug\Lucky_Cafe_Order_Project.Form1.resources
+C:\Users\madoo\OneDrive\Desktop\C##\Lucky Cafe Order Project\Lucky Cafe Order Project\obj\Debug\Lucky_Cafe_Order_Project.Properties.Resources.resources
+C:\Users\madoo\OneDrive\Desktop\C##\Lucky Cafe Order Project\Lucky Cafe Order Project\obj\Debug\Lucky Cafe Order Project.csproj.GenerateResource.cache
+C:\Users\madoo\OneDrive\Desktop\C##\Lucky Cafe Order Project\Lucky Cafe Order Project\obj\Debug\Lucky Cafe Order Project.csproj.CoreCompileInputs.cache
+C:\Users\madoo\OneDrive\Desktop\C##\Lucky Cafe Order Project\Lucky Cafe Order Project\obj\Debug\Lucky Cafe Order Project.exe
+C:\Users\madoo\OneDrive\Desktop\C##\Lucky Cafe Order Project\Lucky Cafe Order Project\obj\Debug\Lucky Cafe Order Project.pdb
